@@ -19,6 +19,7 @@ fun main() {
 
         else -> "invalid"
     }
+    println("The answer is :")
    println(result)
 
 }
