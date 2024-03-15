@@ -24,5 +24,4 @@ fun main() {
     r.draw()
     var p = Parallelogram()
     p.draw()
-
 }
